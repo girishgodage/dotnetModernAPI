@@ -1,4 +1,4 @@
-![Modern](https://github.com/saineshwar/Modern.API/blob/main/Modern.API.png)
+![Modern](https://github.com/girishgodage/dotnetModernAPI/blob/main/img003.png)
 
 # Modern API- Quick Guide for Rapid APIs Development in ASP.NET Core 
 Modern API is completed project with all features which are commonly used in Live projects.

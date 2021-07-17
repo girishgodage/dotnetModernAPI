@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Modern.API</name>
+    </assembly>
+    <members>
+        <member name="M:Modern.API.Helpers.HashHelper.CreateHashSHA512(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="hashpassword"></param>
+            <param name="salt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Modern.API.Helpers.HashHelper.CreateHashSHA512(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="hashpassword"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Modern.API.Helpers.HashHelper.CreateHashSHA256(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="rawData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Modern.API.Helpers.SecureRandomNumberGenerator.Dispose">
+            <summary>
+            Dispose secure random
+            </summary>
+        </member>
+    </members>
+</doc>

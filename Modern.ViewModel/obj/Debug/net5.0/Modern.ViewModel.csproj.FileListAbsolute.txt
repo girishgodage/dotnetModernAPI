@@ -1,0 +1,12 @@
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\bin\Debug\net5.0\Modern.ViewModel.deps.json
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\bin\Debug\net5.0\Modern.ViewModel.dll
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\bin\Debug\net5.0\ref\Modern.ViewModel.dll
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\bin\Debug\net5.0\Modern.ViewModel.pdb
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\obj\Debug\net5.0\Modern.ViewModel.csproj.AssemblyReference.cache
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\obj\Debug\net5.0\Modern.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\obj\Debug\net5.0\Modern.ViewModel.AssemblyInfoInputs.cache
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\obj\Debug\net5.0\Modern.ViewModel.AssemblyInfo.cs
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\obj\Debug\net5.0\Modern.ViewModel.csproj.CoreCompileInputs.cache
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\obj\Debug\net5.0\Modern.ViewModel.dll
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\obj\Debug\net5.0\ref\Modern.ViewModel.dll
+D:\workspace\dotnetProject\Modern.API\Modern.ViewModel\obj\Debug\net5.0\Modern.ViewModel.pdb

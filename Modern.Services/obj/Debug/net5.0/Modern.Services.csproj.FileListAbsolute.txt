@@ -1,0 +1,12 @@
+D:\workspace\dotnetProject\Modern.API\Modern.Services\bin\Debug\net5.0\Modern.Services.deps.json
+D:\workspace\dotnetProject\Modern.API\Modern.Services\bin\Debug\net5.0\Modern.Services.dll
+D:\workspace\dotnetProject\Modern.API\Modern.Services\bin\Debug\net5.0\ref\Modern.Services.dll
+D:\workspace\dotnetProject\Modern.API\Modern.Services\bin\Debug\net5.0\Modern.Services.pdb
+D:\workspace\dotnetProject\Modern.API\Modern.Services\obj\Debug\net5.0\Modern.Services.csproj.AssemblyReference.cache
+D:\workspace\dotnetProject\Modern.API\Modern.Services\obj\Debug\net5.0\Modern.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnetProject\Modern.API\Modern.Services\obj\Debug\net5.0\Modern.Services.AssemblyInfoInputs.cache
+D:\workspace\dotnetProject\Modern.API\Modern.Services\obj\Debug\net5.0\Modern.Services.AssemblyInfo.cs
+D:\workspace\dotnetProject\Modern.API\Modern.Services\obj\Debug\net5.0\Modern.Services.csproj.CoreCompileInputs.cache
+D:\workspace\dotnetProject\Modern.API\Modern.Services\obj\Debug\net5.0\Modern.Services.dll
+D:\workspace\dotnetProject\Modern.API\Modern.Services\obj\Debug\net5.0\ref\Modern.Services.dll
+D:\workspace\dotnetProject\Modern.API\Modern.Services\obj\Debug\net5.0\Modern.Services.pdb

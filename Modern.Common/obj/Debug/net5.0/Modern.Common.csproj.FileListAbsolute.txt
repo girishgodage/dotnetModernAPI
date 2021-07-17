@@ -1,0 +1,11 @@
+D:\workspace\dotnetProject\Modern.API\Modern.Common\bin\Debug\net5.0\Modern.Common.deps.json
+D:\workspace\dotnetProject\Modern.API\Modern.Common\bin\Debug\net5.0\Modern.Common.dll
+D:\workspace\dotnetProject\Modern.API\Modern.Common\bin\Debug\net5.0\ref\Modern.Common.dll
+D:\workspace\dotnetProject\Modern.API\Modern.Common\bin\Debug\net5.0\Modern.Common.pdb
+D:\workspace\dotnetProject\Modern.API\Modern.Common\obj\Debug\net5.0\Modern.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnetProject\Modern.API\Modern.Common\obj\Debug\net5.0\Modern.Common.AssemblyInfoInputs.cache
+D:\workspace\dotnetProject\Modern.API\Modern.Common\obj\Debug\net5.0\Modern.Common.AssemblyInfo.cs
+D:\workspace\dotnetProject\Modern.API\Modern.Common\obj\Debug\net5.0\Modern.Common.csproj.CoreCompileInputs.cache
+D:\workspace\dotnetProject\Modern.API\Modern.Common\obj\Debug\net5.0\Modern.Common.dll
+D:\workspace\dotnetProject\Modern.API\Modern.Common\obj\Debug\net5.0\ref\Modern.Common.dll
+D:\workspace\dotnetProject\Modern.API\Modern.Common\obj\Debug\net5.0\Modern.Common.pdb

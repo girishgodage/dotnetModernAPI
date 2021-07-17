@@ -1,0 +1,20 @@
+2021-07-17 09:09:10.5558 Info Message Template Auto Format enabled
+2021-07-17 09:09:10.6024 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 09:09:10.6767 Info Adding target DatabaseTarget(Name=db)
+2021-07-17 09:09:10.7169 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=D:\workspace\dotnetProject\Modern.API\Modern.API\bin\Debug\net5.0\nlog.config
+2021-07-17 09:13:17.3053 Info Message Template Auto Format enabled
+2021-07-17 09:13:17.3363 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 09:13:17.3870 Info Adding target DatabaseTarget(Name=db)
+2021-07-17 09:13:17.4804 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=D:\workspace\dotnetProject\Modern.API\Modern.API\bin\Debug\net5.0\nlog.config
+2021-07-17 09:15:59.6494 Info Message Template Auto Format enabled
+2021-07-17 09:15:59.6725 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 09:15:59.7504 Info Adding target DatabaseTarget(Name=db)
+2021-07-17 09:15:59.8166 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=D:\workspace\dotnetProject\Modern.API\Modern.API\bin\Debug\net5.0\nlog.config
+2021-07-17 09:18:24.9377 Info Message Template Auto Format enabled
+2021-07-17 09:18:24.9496 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 09:18:25.0154 Info Adding target DatabaseTarget(Name=db)
+2021-07-17 09:18:25.0586 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=D:\workspace\dotnetProject\Modern.API\Modern.API\bin\Debug\net5.0\nlog.config
+2021-07-17 09:24:14.0300 Info Message Template Auto Format enabled
+2021-07-17 09:24:14.0581 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 09:24:14.1529 Info Adding target DatabaseTarget(Name=db)
+2021-07-17 09:24:14.2463 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=D:\workspace\dotnetProject\Modern.API\Modern.API\bin\net5.0\nlog.config
